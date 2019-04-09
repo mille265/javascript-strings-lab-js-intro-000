@@ -9,4 +9,4 @@ var topic = "space";
 var conversation = `${topic}`;
 var greeting = "Hello, everybody!";
 var greetSpecialGuest = "Hello, " + specialGuest + "!"
-var topic = "Let\'s talk about space";
+var conversation = "Let\'s talk about {topic}";
